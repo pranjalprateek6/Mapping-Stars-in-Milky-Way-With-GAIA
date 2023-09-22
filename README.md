@@ -15,7 +15,7 @@ In this project, we explore and visualize data related to our local Milky Way ga
 - Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/milky-way-visualization.git
+   git clone https://github.com/pranjalprateek6/Mapping-Stars-in-Milky-Way-With-GAIA
    ```
 - Open and run the Jupyter Notebook milky-way-visualization.ipynb to view the data visualizations and insights into our local Milky Way galaxy.
 
