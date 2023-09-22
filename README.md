@@ -1,4 +1,9 @@
 # Mapping-Stars-in-Milky-Way-With-GAIA
+
+<p align="center">
+<img src="https://c.tenor.com/oDBz3aS1BcEAAAAC/milky-way-galaxy.gif" width="500" height="400" />
+</p>
+
 Welcome to the "Map the Local Milky Way With GAIA" repository! This project involves visualizing the "Map the Local Milky Way With GAIA" dataset to gain insights into our local Milky Way galaxy using data from the GAIA satellite.
 ## Overview
 
