@@ -6,7 +6,7 @@ In this project, we explore and visualize data related to our local Milky Way ga
 
 ## Contents
 
-- `mapping-milkyway-stars.ipynb`: Jupyter Notebook containing the data visualization process, including data loading, cleaning, analysis, and visualizations.
+- `mapping-milky-way-stars.ipynb`: Jupyter Notebook containing the data visualization process, including data loading, cleaning, analysis, and visualizations.
 - `gaiaDataNearSun.csv`: The dataset used for the visualization.
 - `README.md`: This file, providing an overview of the project.
 
